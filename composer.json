@@ -1,0 +1,22 @@
+{
+    "name": "ruangkarya/alzakaria",
+    "description": "Ruang Karya SI",
+    "type": "library",
+    "require": {
+        "xendit/xendit-php": "^2.19",
+        "ramsey/uuid": "^4.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ruangkarya\\Alzakaria\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Al Zakaria",
+            "email": "alzakaria@ruangkarya.id"
+        }
+    ],
+    "minimum-stability": "stable"
+}
